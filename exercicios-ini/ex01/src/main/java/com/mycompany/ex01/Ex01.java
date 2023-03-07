@@ -12,7 +12,6 @@ public class Ex01 {
         b = inputData.nextDouble();
         
         System.out.printf("\nThe result is: %.1f", a + b);
-        
         inputData.close();
     }
 }
