@@ -17,7 +17,7 @@ public class MathMethods {
         B = Math.sqrt(y);
         C = Math.sqrt(z);
         System.out.printf("Raiz quadrada de: %.1f é %.1f", x, A);
-        System.out.printf("\nRaiz quadrada de: %.1f é %.1f", y, B);
+        System.out.printf("Raiz quadrada de: %.1f é %.1f", y, B);
         System.out.printf("\nRaiz quadrada de: %.15f é %.1f", z, C);
         
         A = Math.pow(x, 2);

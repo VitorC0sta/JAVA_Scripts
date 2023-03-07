@@ -1,16 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package com.mycompany.scopos;
 
-/**
- *
- * @author e5000758
- */
+
 public class Scopos {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        double price = 480.00;
+        
+        System.out.println(price);
     }
 }
